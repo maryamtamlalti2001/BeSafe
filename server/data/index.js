@@ -1,0 +1,38 @@
+      export const dataUser = [
+          {
+            _id: "63701cc1f03239b7f700001e",
+            name: "Maryam TAMLALTI",
+            email: "mery2001@techhealth.com",
+            password: "meryyy",
+            occupation: "Responsable blocA",
+            phoneNumber: "8346315874",
+            role: "admin",
+          },
+          {
+            _id: "63701cc1f03239b7f700002e",
+            name: "Malika ousseini",
+            email: "lika@techhealth.com",
+            password: "likaa",
+            occupation: "Responsable bloc B",
+            phoneNumber: "83463158",
+            role: "admin",
+          },
+          {
+            _id: "63701cc1f03239b7f700003e",
+            name: "Fatimazahrae laaziz",
+            email: "faty@techhealth.com",
+            password: "fatyyy",
+            occupation: "Responsable bloc C",
+            phoneNumber: "834631587",
+            role: "admin",
+          },
+          {
+            _id: "63701cc1f03239b7f700004e",
+            name: "Oussakel khadija",
+            email: "duja@techhealth.com",
+            password: "dujaa",
+            occupation: "Responsable bloc D",
+            phoneNumber: "83465874",
+            role: "admin",
+          },
+        ]
