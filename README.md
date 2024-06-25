@@ -33,3 +33,32 @@ Assurez-vous d'avoir les logiciels suivants installés sur votre machine :
 1. Clonez le dépôt du projet sur votre machine locale :
    ```bash
    git clone https://https://github.com/maryamtamlalti2001/BeSafe.git
+   
+2. Accédez au répertoire du projet :
+```bash
+cd besafe
+```
+3. Installez les dépendances pour le frontend et le backend :
+
+```bash
+cd frontend
+npm install
+cd ../backend
+npm install
+Configurez la base de données MongoDB. Créez un fichier .env dans le répertoire backend et ajoutez-y les informations de connexion à la base de données :
+
+bash
+Copy code
+MONGO_URI=mongodb://localhost:27017/besafe
+Lancez l'application :
+
+Démarrez le serveur backend :
+bash
+Copy code
+cd backend
+npm start
+Démarrez le serveur frontend :
+bash
+Copy code
+cd frontend
+npm start
