@@ -8,12 +8,12 @@ Cette solution leur permettra de prendre des mesures préventives, d'identifier 
 
 ## Technologies utilisées
 
-### Frontend
+### [Frontend](https://github.com/maryamtamlalti2001/BeSafe/tree/master/client)
 - **React JS**
 - **CSS**
 - **JavaScript**
 
-### Backend
+### [Backend](https://github.com/maryamtamlalti2001/BeSafe/tree/master/server)
 - **Node.js**
 - **Express.js**
 
